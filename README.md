@@ -240,7 +240,7 @@ Only download the mod from this repository's official **Releases** page.
 
 The SHA-256 hash for the released `barony.exe` is:
 
-```076ACA70601D2FA97147DFC70E9BC883E5986D44F16A85F83C21E01867AB684B```
+```A53BB801874EE4CE93E03F41FCF3C20982020B6AD6EB91E60B74EEA3A37BD81E```
 
 To verify your downloaded file, open PowerShell in the folder containing `barony.exe` and run:
 
