@@ -1,0 +1,13 @@
+MODIFICATIONS TO BARONY
+
+Copyright (c) 2026, RustyGhost
+
+The modifications made for this project are licensed under the BSD 2-Clause License under the same terms stated above for the Barony open-source code.
+
+This project is an unofficial modification of Barony and is not affiliated with, endorsed by, or sponsored by Turning Wheel LLC.
+
+Barony and its associated game assets, artwork, audio, music, models, and other commercial content remain the property of their respective copyright holders. This project does not grant any license to those assets.
+
+A legitimate installation of Barony is required to use this modification.
+
+This distribution contains a modified executable derived from the open-source Barony code. It is intended to replace the executable in an existing Barony installation and does not constitute a complete copy of the game.
